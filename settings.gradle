@@ -4,4 +4,5 @@ include 'lab00:untitled'
 findProject(':lab00:untitled')?.name = 'untitled'
 include 'lab00'
 include 'lab00'
+include 'proj1'
 
