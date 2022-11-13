@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="agh.ii.prinjava.proj1.impl.DLinkListTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-11-13T12:14:11" hostname="LAPTOP-QDHFCCHO" time="0.044">
+  <properties/>
+  <testcase name="addFirst()" classname="agh.ii.prinjava.proj1.impl.DLinkListTest" time="0.036"/>
+  <testcase name="addLast()" classname="agh.ii.prinjava.proj1.impl.DLinkListTest" time="0.002"/>
+  <testcase name="removeFirst()" classname="agh.ii.prinjava.proj1.impl.DLinkListTest" time="0.001"/>
+  <testcase name="ToStringTest()" classname="agh.ii.prinjava.proj1.impl.DLinkListTest" time="0.001"/>
+  <testcase name="removeLast()" classname="agh.ii.prinjava.proj1.impl.DLinkListTest" time="0.001"/>
+  <system-out><![CDATA[2,1,13,5,
+5,13,1,2,
+5,13,1,2,
+2,1,13,5,
+2,1,13,5,
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
